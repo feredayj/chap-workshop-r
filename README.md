@@ -12,7 +12,8 @@ Welcome to the CHAP workshop! This repository is for practicing Git and GitHub.
 ## Participants
 
 <!-- Add your name below this line -->
-# test edit for WSL - JF
+
+JF
 
 ## Running the Example
 
